@@ -1,0 +1,23 @@
+2025-04-04 02:34:03.470447 - Received CBT.V508.FILE048.PDS from FILE048.XMI 
+2025-04-04 02:34:03.471442 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/$$$#DATE
+2025-04-04 02:34:03.471637 - Found @FILE048.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/@FILE048
+2025-04-04 02:34:03.471775 - Found APUT.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/APUT
+2025-04-04 02:34:03.471951 - Found EPUTL.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/EPUTL
+2025-04-04 02:34:03.472084 - Found LISTSPC.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTSPC
+2025-04-04 02:34:03.472210 - Found LISTSPC$.jcl (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTSPC$
+2025-04-04 02:34:03.472341 - Found LISTSPC#.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTSPC#
+2025-04-04 02:34:03.472464 - Found LISTVOL.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTVOL
+2025-04-04 02:34:03.472589 - Found LISTVOL$.jcl (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTVOL$
+2025-04-04 02:34:03.472710 - Found LISTVOL#.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTVOL#
+2025-04-04 02:34:03.472859 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE048.PDS, moved to PDS/LOADLIB.xmi
+2025-04-04 02:34:03.479016 - Received SYS1.W$$.LINKLIB from LOADLIB.xmi 
+2025-04-04 02:34:03.479325 - Found alias LISTS to LISTSPC in SYS1.W$$.LINKLIB, moved to PDS/LISTS
+2025-04-04 02:34:03.479472 - Found LISTSPC.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/LISTSPC
+2025-04-04 02:34:03.479525 - Found alias LISTV to LISTVOL in SYS1.W$$.LINKLIB, moved to PDS/LISTV
+2025-04-04 02:34:03.479646 - Found LISTVOL.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/LISTVOL
+2025-04-04 02:34:03.479693 - Found alias LV to LISTVOL in SYS1.W$$.LINKLIB, moved to PDS/LV
+2025-04-04 02:34:03.479731 - Found alias SP to LISTSPC in SYS1.W$$.LINKLIB, moved to PDS/SP
+2025-04-04 02:34:03.480134 - Found LOCINDEX.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LOCINDEX
+2025-04-04 02:34:03.480280 - Found TSOB.rexx (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/TSOB
+2025-04-04 02:34:03.480400 - Found TSOE.rexx (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/TSOE
+2025-04-04 02:34:03.480515 - Found TSOV.rexx (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/TSOV
